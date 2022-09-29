@@ -24,6 +24,8 @@ Lo primero que se hizo Fue convertir la imagen en un double  para poder asi trab
 
 
 ![image](https://user-images.githubusercontent.com/114626263/192912486-c90b79f6-8f49-4402-828d-df833a62e22e.png)
+
+
 Y se llega a usar esta formula para cambiar el ajuste gamma 
 A mayor luz se requiere mas gamma > 1
 y para menor luz se requiere menos gamma < 1
