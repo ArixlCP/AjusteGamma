@@ -21,8 +21,12 @@
 §De forma general el contraste modifica el valor de intensidad para observar la información de la imagen de una mejor forma, en este sentido corrige los datos de la imagen para mostrarnos detalles que de otra forma pasan desapercibidos.
 
 Lo primero que se hizo Fue convertir la imagen en un double  para poder asi trabajar con ella 
+
+
 ![image](https://user-images.githubusercontent.com/114626263/192912486-c90b79f6-8f49-4402-828d-df833a62e22e.png)
 Y se llega a usar esta formula para cambiar el ajuste gamma 
 A mayor luz se requiere mas gamma > 1
 y para menor luz se requiere menos gamma < 1
+
+
 ![image](https://user-images.githubusercontent.com/114626263/192911306-17a0f332-db64-4a07-9cd9-737895f812f0.png)
