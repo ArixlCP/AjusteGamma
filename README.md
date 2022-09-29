@@ -32,3 +32,9 @@ y para menor luz se requiere menos gamma < 1
 
 
 ![image](https://user-images.githubusercontent.com/114626263/192911306-17a0f332-db64-4a07-9cd9-737895f812f0.png)
+
+
+
+#Conclusiones
+
+Al haber realizado las siguientes dos practicas nos podemos dar cuenta de los cambios y como se va mejorando la imagen y se pueden percibir mas datos e informacion 
